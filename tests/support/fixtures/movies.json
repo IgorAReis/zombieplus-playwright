@@ -1,0 +1,122 @@
+{
+  "create": {
+    "title": "Guerra Mundial Z",
+    "overview": "Gerry Lane percorre o mundo em uma corrida contra o tempo para encontrar a origem de uma pandemia zumbi que ameaça exterminar a humanidade.",
+    "company": "Paramount Pictures",
+    "release_year": 2013,
+    "featured": false,
+    "cover": "/images/guerra-mundial-z.png"
+  },
+  "madrugada_dos_mortos": {
+    "title": "Madrugada dos Mortos",
+    "overview": "Um grupo de sobreviventes se refugia em um shopping center após uma epidemia transformar grande parte da população em zumbis.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "/images/madrugada-dos-mortos.png"
+  },
+  "exterminio": {
+    "title": "Extermínio",
+    "overview": "Após um vírus devastar a sociedade, um homem desperta de um coma e tenta sobreviver em uma Londres tomada por infectados violentos.",
+    "company": "Fox Searchlight Pictures",
+    "release_year": 2002,
+    "featured": false,
+    "cover": "/images/exterminio.png"
+  },
+  "exterminio_2": {
+    "title": "Extermínio 2",
+    "overview": "Após o surto inicial, sobreviventes tentam reconstruir suas vidas em Londres, mas uma nova onda de infecção ameaça a humanidade.",
+    "company": "20th Century Fox",
+    "release_year": 2007,
+    "featured": false,
+    "cover": "/images/exterminio-2.png"
+  },
+  "todo_mundo_quase_morto": {
+    "title": "Todo Mundo Quase Morto",
+    "overview": "Shaun tenta salvar seus amigos e familiares durante um apocalipse zumbi em Londres, enfrentando situações perigosas e cômicas.",
+    "company": "Universal Pictures",
+    "release_year": 2004,
+    "featured": false,
+    "cover": "/images/todo-mundo-quase-morto.png"
+  },
+  "rec": {
+    "title": "REC",
+    "overview": "Uma repórter acompanha bombeiros até um prédio residencial que acaba isolado após um misterioso surto de infecção.",
+    "company": "Filmax",
+    "release_year": 2007,
+    "featured": false,
+    "cover": "/images/rec.png"
+  },
+  "a_volta_dos_mortos_vivos": {
+    "title": "A Volta dos Mortos-Vivos",
+    "overview": "Um gás tóxico liberado acidentalmente reanima os mortos e provoca uma noite de terror e caos.",
+    "company": "Orion Pictures",
+    "release_year": 1985,
+    "featured": false,
+    "cover": "/images/a-volta-dos-mortos-vivos.png"
+  },
+  "a_noite_dos_mortos_vivos": {
+    "title": "A Noite dos Mortos-Vivos",
+    "overview": "Um grupo de pessoas se abriga em uma casa enquanto mortos reanimados atacam os vivos em uma região rural.",
+    "company": "Image Ten",
+    "release_year": 1968,
+    "featured": false,
+    "cover": "/images/a-noite-dos-mortos-vivos.png"
+  },
+  "despertar_dos_mortos": {
+    "title": "Despertar dos Mortos",
+    "overview": "Durante uma epidemia zumbi, sobreviventes buscam proteção em um shopping center enquanto o mundo entra em colapso.",
+    "company": "United Film Distribution Company",
+    "release_year": 1978,
+    "featured": false,
+    "cover": "/images/despertar-dos-mortos.png"
+  },
+  "terra_dos_mortos": {
+    "title": "Terra dos Mortos",
+    "overview": "Em um mundo dominado por zumbis, humanos vivem em uma cidade fortificada enquanto os mortos começam a se organizar.",
+    "company": "Universal Pictures",
+    "release_year": 2005,
+    "featured": false,
+    "cover": "/images/terra-dos-mortos.png"
+  },
+  "invasao_zumbi": {
+    "title": "Invasão Zumbi",
+    "overview": "Um pai e sua filha embarcam em um trem quando um surto zumbi se espalha pela Coreia do Sul, transformando a viagem em uma luta pela sobrevivência.",
+    "company": "Next Entertainment World",
+    "release_year": 2016,
+    "featured": false,
+    "cover": "/images/invasao-zumbi.png"
+  },
+  "invasao_zumbi_2_peninsula": {
+    "title": "Invasão Zumbi 2: Península",
+    "overview": "Anos após o surto zumbi, um ex-soldado retorna a uma Coreia devastada para cumprir uma missão perigosa.",
+    "company": "Next Entertainment World",
+    "release_year": 2020,
+    "featured": false,
+    "cover": "/images/invasao-zumbi-2-peninsula.png"
+  },
+  "meu_namorado_e_um_zumbi": {
+    "title": "Meu Namorado é um Zumbi",
+    "overview": "Um zumbi desenvolve sentimentos por uma jovem humana em um mundo pós-apocalíptico, criando uma relação improvável entre vivos e mortos.",
+    "company": "Summit Entertainment",
+    "release_year": 2013,
+    "featured": false,
+    "cover": "/images/meu-namorado-e-um-zumbi.png"
+  },
+  "zumbilandia": {
+    "title": "Zumbilândia",
+    "overview": "Quatro sobreviventes cruzam os Estados Unidos durante um apocalipse zumbi, enfrentando perigos e situações absurdas.",
+    "company": "Sony Pictures Releasing",
+    "release_year": 2009,
+    "featured": false,
+    "cover": "/images/zumbilandia.png"
+  },
+  "army_of_the_dead": {
+    "title": "Army of the Dead: Invasão em Las Vegas",
+    "overview": "Um grupo de mercenários entra em Las Vegas, infestada por zumbis, para realizar um roubo arriscado.",
+    "company": "Netflix",
+    "release_year": 2021,
+    "featured": false,
+    "cover": "/images/army-of-the-dead.png"
+  }
+}
